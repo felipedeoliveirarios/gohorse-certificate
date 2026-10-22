@@ -24,6 +24,12 @@ Changing language preserves the current question, selected answer, score, and en
 
 Serve `index.html` from any static web host. The site does not require server-side routing or environment variables.
 
+### GitHub Pages
+
+For free hosting, use a public repository. In **Settings → Pages**, select **Deploy from a branch**, branch **main**, folder **/ (root)**, and save. The `.nojekyll` file serves the HTML without Jekyll processing.
+
+No custom domain is required. GitHub assigns a `https://<username>.github.io/<repository>/` address and updates it when changes reach `main`.
+
 ## Edit
 
 Edit `index.html` directly. Translations live in the `textos` JavaScript object. Each language has ten questions with three alternatives. The shared `corretas` array contains the correct answer indexes, starting from zero.
