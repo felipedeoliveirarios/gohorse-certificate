@@ -1,6 +1,6 @@
 # Go Horse Certificate
 
-A free, humorous eXtreme Go Horse (XGH) certification exam.
+A free certification exam based on the principles of eXtreme Go Horse (XGH).
 
 ## Run
 
