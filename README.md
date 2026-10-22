@@ -14,7 +14,7 @@ The HTML includes all application code, translations, the logo, and the certific
 - Browser language detection, with English as the fallback.
 - Light/dark switch and saved language/theme preferences.
 - Ten questions; five correct answers are enough to pass.
-- A personalized certificate that can be printed or saved as PDF.
+- A personalized A4 landscape certificate (297 × 210 mm) with the logo at the top left, printable or savable as a one-page PDF.
 - A certificate “validation” QR code that leads to a rickroll.
 - Ko-fi support button: https://ko-fi.com/E1E2ZQY6A
 
